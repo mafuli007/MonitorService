@@ -1,0 +1,11 @@
+BrazilCenter\Monitor\server\CheckOnlineStatus.class
+BrazilCenter\Monitor\db\DBManager.class
+BrazilCenter\Monitor\Utils\LogUtils.class
+BrazilCenter\Monitor\Utils\XMLOperator.class
+BrazilCenter\Monitor\Utils\ShareData.class
+BrazilCenter\Monitor\Utils\Utils.class
+BrazilCenter\Monitor\Main\Main.class
+BrazilCenter\Monitor\LogServer\LogServer.class
+BrazilCenter\Monitor\Utils\Configuration.class
+BrazilCenter\Monitor\server\MonitorMessagProcess.class
+BrazilCenter\Monitor\server\MonitorServerHandler.class

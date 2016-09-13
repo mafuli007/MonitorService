@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+
+	<!-- Monitor Listening Port -->
+	<ListenPort>9889</ListenPort>
+	
+	<!-- Log Server Listening Port -->
+	<LogServerPort>9877</LogServerPort>
+	
+	<!-- Maximum unconnected period, should not be less than 3 -->
+	<LongestInterval>25</LongestInterval>
+
+	<!-- Database Information -->
+	<DatabaseInfo>
+		<DatabaseIp>127.0.0.1</DatabaseIp>
+		<DatabasePort>3306</DatabasePort>
+		<DatabaseInstanceName>brazil_data_center</DatabaseInstanceName>
+		<DatabaseUserName>root</DatabaseUserName>
+		<DatabaseUserPasswd>123456</DatabaseUserPasswd>
+	</DatabaseInfo>
+
+</items>
